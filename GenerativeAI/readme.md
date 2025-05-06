@@ -111,3 +111,8 @@ However, it’s crucial to guide this technology with human intelligence, integr
 > **Generative AI** is a powerful tool that opens up new frontiers for creativity and productivity. But it still requires **human oversight** to ensure its responsible use.
 
 ---
+
+
+# chek out this medium link
+
+https://medium.com/@maryamsaleem20102001/introduction-to-generative-ai-3497bb32ae24
