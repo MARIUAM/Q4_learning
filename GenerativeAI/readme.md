@@ -3,7 +3,7 @@
 
 
 
-What is Generative AI?
+# What is Generative AI?
 
 Generative AI is a special type of AI that:
 
