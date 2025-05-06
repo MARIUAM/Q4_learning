@@ -13,18 +13,18 @@ It doesn’t just understand data it creates brand-new things like text, images,
 
 
 
+# ✨ What Can Generative AI Create?
 
-# *What can Generative AI create*
+Generative AI can produce various types of creative content. Here are the main types with examples:
 
-
-Type	                   Example
-📝 Text	                 Stories,emails, blog posts
-🎨 Image	               Artwork,logos, designs
-🎵 Music	               Background music, songs
-🗣️ Voice	               Human-like talking voices
-🎥 Video	               AI-generated video clips
-💻 Code	                 Websites, apps, scripts
-
+| Type        | Example                                |
+|-------------|----------------------------------------|
+| 📝 **Text**   | Stories, emails, blog posts            |
+| 🎨 **Image**  | Artwork, logos, designs                |
+| 🎵 **Music**  | Background music, songs                |
+| 🗣️ **Voice**  | Human-like talking voices              |
+| 🎥 **Video**  | AI-generated video clips               |
+| 💻 **Code**   | Websites, apps, scripts                |
 
 
 
