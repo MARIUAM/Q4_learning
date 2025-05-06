@@ -14,7 +14,7 @@ It doesn’t just understand data it creates brand-new things like text, images,
 
 
 
-What can Generative AI create
+# *What can Generative AI create*
 
 
 Type	                   Example
@@ -29,7 +29,7 @@ Type	                   Example
 
 
 
-How does Generative AI work?
+# How does Generative AI work?
 
 
 Here’s a super simple version:
@@ -48,15 +48,15 @@ The AI writes a brand new story using its past learning!
 
 
 
-Real-Life Tools that Use Generative AI
+# Real-Life Tools that Use Generative AI
 
-ChatGPT
-GitHub Copilot and many more
-
-
+*ChatGPT*
+*GitHub* # Copilot and many more
 
 
- 7. Things to Keep in Mind
+
+
+# Things to Keep in Mind
 AI is not always 100% correct — humans should still review
 
 It learns from past data, not from feelings
@@ -69,7 +69,7 @@ Use it ethically — no cheating or spreading fake info
  
  
  
-Conclusion 
+# Conclusion 
 Generative AI is a type of AI that creates brand-new content like text, images, or code — just from your ideas or prompts.
 
 
