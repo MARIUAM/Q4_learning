@@ -27,3 +27,110 @@ Ye specially un logon ke liye bohot helpful hai jo Python already jaante hain.
 
 
 
+# FastAPI Project
+
+FastAPI is a modern and high-performance web framework for building APIs with Python. It is designed to be fast, easy to use, and scalable, making it a great choice for both small and large applications.
+
+## Features
+
+- 🚀 Super Fast: Supports asynchronous code using async/await, making it very efficient.
+- 🧩 Easy to Use: Uses Python type hints for automatic validation.
+- 📄 Auto Docs: Automatically creates interactive API docs (Swagger UI and ReDoc).
+- ✅ Great Developer Experience: Clean syntax, helpful error messages, and built-in testing support.
+
+
+## Setup Instructions
+
+### Step 1: Check Python Version
+
+Make sure Python is installed. Run this:
+
+```bash
+python --version
+```
+
+### Step 2: Create Project Folder
+
+```bash
+uv init fastdca-p1
+cd fastdca-p1
+```
+
+### Step 3: Create and Activate Virtual Environment
+
+**On macOS/Linux:**
+
+```bash
+uv venv
+source .venv/bin/activate
+```
+
+**On Windows:**
+
+```bash
+uv venv
+.venv\Scripts\activate
+```
+
+### Step 4: Install Dependencies
+
+```bash
+uv add "fastapi[standard]"
+```
+
+This installs:
+
+- `fastapi`: The main framework
+- `uvicorn`: Runs the app
+- `httpx`: For testing APIs
+
+### Step 5: Add Testing Tools
+
+```bash
+uv add --dev pytest pytest-asyncio
+```
+
+
+ Binary file addedBIN +544 Bytes 
+fastapi/fastdca-p1/__pycache__/main.cpython-310.pyc
+Binary file not shown.
+ 14 changes: 14 additions & 0 deletions14  
+fastapi/fastdca-p1/main.py
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,14 @@
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
+
+@app.get("/items/{item_id}")
+def read_item(item_id: int, q: str | None = None):
+    return {"item_id": item_id, "q": q}
+
+
+
+ 15 changes: 15 additions & 0 deletions15  
+fastapi/fastdca-p1/pyproject.toml
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,15 @@
+[project]
+name = "fastdca-p1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.26.0",
+]
+ 870 changes: 870 additions & 0 deletions870  
+fastapi/fastdca-p1/uv.lock
+
