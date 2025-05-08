@@ -1,5 +1,5 @@
 
-![Uploading f83b8a87-e42b-4a55-8971-5770323bea72.jpg…]()
+![Uploading f83b8a87-e42b-4a55-8971-5770323bea72.png…]()
 
 
 1. What is FastAPI?
