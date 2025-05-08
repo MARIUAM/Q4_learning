@@ -28,4 +28,4 @@ I have officially started working on this assignment, and this project will evol
 📅 Regular updates will be pushed weekly
 
 
-📝 **Medium:** [Introduction to Generative AI](https://medium.com/@maryamsaleem20102001/introduction-to-generative-ai-3497bb32ae24)
+📝 **Medium:** [My Medium Profile](https://medium.com/@maryamsaleem20102001)
