@@ -91,15 +91,6 @@ uv add --dev pytest pytest-asyncio
 ```
 
 
- Binary file addedBIN +544 Bytes 
-fastapi/fastdca-p1/__pycache__/main.cpython-310.pyc
-Binary file not shown.
- 14 changes: 14 additions & 0 deletions14  
-fastapi/fastdca-p1/main.py
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,14 @@
-from fastapi import FastAPI
-
 app = FastAPI()
 
 @app.get("/")
@@ -134,3 +125,5 @@ dev = [
  870 changes: 870 additions & 0 deletions870  
 fastapi/fastdca-p1/uv.lock
 
+
+https://medium.com/@maryamsaleem20102001/introduction-to-fastapi-and-uvicorn-with-hello-world-example-f701d85f6fd6
