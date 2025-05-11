@@ -1,3 +1,5 @@
+# DAY 2
+
 # 1- What is FastAPI?
 
 **FastAPI** ek modern aur powerful web framework hai jo Python mein APIs banane ke liye use hoti hai.  
