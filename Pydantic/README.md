@@ -275,7 +275,7 @@ fastapi dev main.py
 ```
 
 
-
+https://github.com/panaversity/learn-agentic-ai/blob/main/04_daca_agent_native_dev/01_intro_fastapi/02_pydantic_validation/readme.md
 
 
 
