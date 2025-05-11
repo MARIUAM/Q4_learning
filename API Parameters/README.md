@@ -241,3 +241,7 @@ async def update_item(
 In the next step, we'll learn about dependency injection in FastAPI, which enables more modular and reusable code.
 
 https://github.com/panaversity/learn-agentic-ai/tree/main/04_daca_agent_native_dev/01_intro_fastapi/03_api_parameters
+
+
+3 📍 read this
+https://medium.com/@maryamsaleem20102001/what-are-api-parameters-4547751fd366
