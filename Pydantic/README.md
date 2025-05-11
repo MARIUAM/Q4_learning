@@ -290,3 +290,6 @@ https://github.com/panaversity/learn-agentic-ai/blob/main/04_daca_agent_native_d
 
 ![image](https://github.com/user-attachments/assets/6d8e9e26-8472-4f5c-be32-a15ba06d561b)
 
+
+
+https://medium.com/@maryamsaleem20102001/imagine-karo-ek-school-hai-lets-begin-with-a-fun-analogy-73f5a3bcbaa8
