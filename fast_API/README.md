@@ -126,6 +126,6 @@ dev = [
 ]
  870 changes: 870 additions & 0 deletions870  
 fastapi/fastdca-p1/uv.lock
-
+https://github.com/panaversity/learn-agentic-ai/tree/main/04_daca_agent_native_dev/01_intro_fastapi/01_hello_fastapi
 
 https://medium.com/@maryamsaleem20102001/introduction-to-fastapi-and-uvicorn-with-hello-world-example-f701d85f6fd6
